@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cobalt:jar">
+    <output-path>B:/Test Servers/1.15.2/plugins</output-path>
+    <root id="archive" name="Cobalt.jar">
+      <element id="module-output" name="Cobalt" />
+    </root>
+  </artifact>
+</component>
